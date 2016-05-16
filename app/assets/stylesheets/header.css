@@ -1,7 +1,8 @@
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin-left: 90px;
+    margin-top: 10px;
     padding: 10;
     overflow: hidden;
     background-color: #FFFFFF;
@@ -9,6 +10,7 @@ ul {
 }
 
 li {
+    margin-top: 10px;
     float: left;
     text-align: center;
 }
@@ -23,4 +25,9 @@ li a {
 
 li a:hover {
     background-color: #FFFFFF;
+}
+
+.loginpos{
+  margin-left: 1100px;
+  margin-top: -70px;
 }
