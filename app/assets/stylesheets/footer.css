@@ -1,0 +1,27 @@
+
+.picalignment{
+  margin-top: 0px;
+}
+
+.questions{
+  color: white;
+  margin-left: 830px;
+  margin-top: -230px;
+}
+
+.undertext{
+  color: white;
+  margin-left: 770px;
+  margin-top: 10px;
+}
+
+.button{
+  color: white;
+  margin-left: 840px;
+  margin-top: 10px;
+}
+
+.backcolor{
+  background-color: #00FFFF;
+  height: 300px;
+}

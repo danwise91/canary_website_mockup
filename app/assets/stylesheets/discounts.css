@@ -1,0 +1,42 @@
+.border{
+  border-style: groove;
+  margin-top: 150px;
+  margin-bottom: 0px;
+  padding: 90px;
+  background-color: #D3D3D3
+}
+.titleposition{
+  margin-top: 30px;
+  font-size: 50px;
+}
+.box1{
+  background-color: white;
+    width: 300px;
+    padding: 100px;
+    margin-left: -50px;
+    margin-top: 100px;
+}
+
+.box2{
+  background-color: white;
+    width: 300px;
+    padding: 100px;
+    margin-left: 340px;
+    margin-top: -240px;
+}
+
+.box3{
+  background-color: white;
+    width: 300px;
+    padding: 100px;
+    margin-left: 690px;
+    margin-top: -240px;
+}
+
+.bottom{
+  margin-top: 100px;
+}
+
+.picalign{
+  margin-left: -30px
+}

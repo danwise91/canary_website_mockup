@@ -1,0 +1,54 @@
+#style{
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    font-size: 50px;
+}
+
+.textposition{
+
+  margin-left: 110px;
+  margin-top: 150px;
+}
+
+.textpositiontwo{
+  margin-left: 800px;
+  margin-top: -300px;
+}
+
+.alignposition{
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.alignposition2{
+  margin-left: 110px;
+  margin-top: 30px;
+}
+
+.alignposition3{
+  margin-left: 800px;
+  margin-top: 40px;
+}
+
+.linktext{
+  margin-left: 110px;
+  margin-top: 30px;
+  color: green;
+}
+
+.linktexttwo{
+  margin-left: 800px;
+  margin-top: 30px;
+  color: green;
+}
+
+.pictureone{
+  margin-left: 600px;
+  margin-top: -350px;
+}
+
+.picturetwo{
+  margin-left: 100px;
+  margin-top: 80px;
+}
