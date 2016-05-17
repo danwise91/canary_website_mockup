@@ -8,4 +8,7 @@ Implemented the SASS CSS Pre-Processor
 
 CSS3 animations in the navbar links
 
-Sessions for user log in and log out  
+Sessions for user log in and log out
+
+
+Hope you like it!
