@@ -1,14 +1,14 @@
 .border{
-  border-style: groove;
   margin-top: 150px;
-  margin-bottom: 0px;
   padding: 90px;
-  background-color: #D3D3D3
+  background-color: #D3D3D3;
 }
+
 .titleposition{
   margin-top: 30px;
   font-size: 50px;
 }
+
 .box1{
   background-color: white;
     width: 300px;
@@ -38,5 +38,5 @@
 }
 
 .picalign{
-  margin-left: -30px
+  margin-left: -30px;
 }

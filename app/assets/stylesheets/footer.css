@@ -5,19 +5,20 @@
 
 .questions{
   color: white;
-  margin-left: 830px;
+  font-size: 10px;
+  margin-left: 950px;
   margin-top: -230px;
 }
 
 .undertext{
   color: white;
-  margin-left: 770px;
+  margin-left: 900px;
   margin-top: 10px;
 }
 
 .button{
   color: white;
-  margin-left: 840px;
+  margin-left: 950px;
   margin-top: 10px;
 }
 
